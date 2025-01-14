@@ -21,7 +21,7 @@ public:
 // Class for a Member
 class Member {
 public:
-    int id;
+    int id; 
     string name;
     vector<int> issuedBooks;
 
